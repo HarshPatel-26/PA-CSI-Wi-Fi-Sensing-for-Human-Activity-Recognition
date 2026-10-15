@@ -1,0 +1,11 @@
+# Project dependencies
+keras==2.10.0
+numpy==1.24.1
+scikit-image==0.24.0
+scikit-learn==1.4.2
+tensorflow==2.10.0
+tensorflow-gpu==2.10.0
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+tqdm==4.66.5
